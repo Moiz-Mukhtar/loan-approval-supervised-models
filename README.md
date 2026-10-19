@@ -1,3 +1,4 @@
+
 # Supervised Machine Learning Models for Loan Approval Prediction
 
 ## Dataset Name & Source
@@ -21,4 +22,5 @@ This project implements and evaluates core supervised machine learning models—
 ## Install the required dependencies:
     pip install -r requirements.txt
 
-Launch Jupyter Notebook or open supervised_model_evaluation.ipynb in VS Code / Google Colab and run all cells top to bottom.
+Launch Jupyter Notebook or open supervised_model_evaluation.ipynb in VS Code / Google Colab and run all cells top to bottom. 
+**Author:** Ch. Moiz Mukhtar
